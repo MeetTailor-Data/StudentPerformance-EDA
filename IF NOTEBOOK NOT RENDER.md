@@ -2,4 +2,4 @@
 
 
 
-##### [https://nbviewer.org/github/MeetTailor-Data/StudentPerformance-EDA/blob/main/StudentPerformance.ipynb](https://nbviewer.org/github/MeetTailor-Data/StudentPerformance-EDA/blob/main/StudentPerformance.ipynb)
+##### [https://kokes.github.io/nbviewer.js/viewer.html#aHR0cHM6Ly9naXRodWIuY29tL01lZXRUYWlsb3ItRGF0YS9TdHVkZW50UGVyZm9ybWFuY2UtRURBL2Jsb2IvbWFpbi9TdHVkZW50UGVyZm9ybWFuY2UuaXB5bmI=)
